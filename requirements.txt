@@ -12,7 +12,6 @@ decorator==5.1.1
 docutils==0.21.2
 dotenv==0.9.9
 fastapi==0.115.8
--e git+https://kanav1822@fastapi-dependency-api.scm.azurewebsites.net/fastapi-dependency-api.git@d77c515897235dd87989522943d228a662f97da4#egg=fastapi_dependency_manager
 h11==0.14.0
 id==1.5.0
 idna==3.10
